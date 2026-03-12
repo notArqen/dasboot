@@ -271,10 +271,14 @@ crew events that affect morale: mail from home, a sailor's birthday, a fight in 
 
 ## license
 
-© u-boot command project. open source under MIT license.
+© u-boot command project - apache 2.0
 
-feel free to fork, modify, and distribute. attribution appreciated but not required.
+feel free to fork, modify, and distribute. attribution appreciated.
+
+
+
+the ocean is dark and full of destroyers.
 
 ---
 
-<p align="center">the ocean is dark and full of destroyers.</p>
+<p align="center">built with care.</p>
